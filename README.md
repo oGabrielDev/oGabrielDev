@@ -44,9 +44,9 @@
 <br>
 <div align="center">
   <a href=https://github.com/oGabielDev>
-    <img src="https://github-readme-stats.vercel.app/api?username=oGabrielDev&show_icons=true&theme=tokyonight&locale=pt-br" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oGabrielDev&show_icons=true&theme=transparent&locale=pt-br" />
   </a>
   <a href=https://github.com/oGabielDev>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGabrielDev&layout=compact&theme=tokyonight&&custom_title=Linguagens%20mais%20usadas%20por%20Gabriel" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGabrielDev&&theme=tokyonight&custom_title=Linguagens%20mais%20usadas" />
   </a>  
 </div>
