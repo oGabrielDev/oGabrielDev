@@ -37,7 +37,7 @@
       </p>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb,heroku,py,docker,jest,sequelize,vscode" />
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb,py,docker,jest,sequelize,vscode" />
         </a>
     </p>
 </div>
