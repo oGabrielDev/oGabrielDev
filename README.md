@@ -7,7 +7,9 @@
 <div>
   <h1>Sobre mim:</h1>
   <h4 align="center">
-  Sou apaixonado por tecnologia desde adolescente, no percorre desse caminho sempre fiz pesquisas para resolver os meus problemas, o que não sei tento     sempre pesquisa entender, aprender e pôr em prática.
+  Olá, seja bem-vindo(a)!
+Atualmente, curso Ciência da Computação na Universidade Veiga de Almeida. Em 2023, concluí um curso de Desenvolvimento Web, no qual aprendi desde os fundamentos até a construção de aplicações completas, passando por front-end e back-end.
+Apaixonado por tecnologia e desenvolvimento de software desde a adolescência, sou movido pela curiosidade e pela vontade constante de aprender. Gosto de explorar problemas e buscar soluções eficientes, sempre me dedicando ao máximo nos meus projetos pessoais para evoluir como desenvolvedor e criar impacto real por meio do código.
   </h4>
 </div>
 <div align="center">
