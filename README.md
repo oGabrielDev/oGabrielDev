@@ -15,9 +15,6 @@ Apaixonado por tecnologia e desenvolvimento de software desde a adolescência, s
 <div align="center">
     <h2>  Entre em contato comigo 👇 </h2>
     <p align="center">
-        <a href="https://github.com/oGabrielDev">
-            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50" height="50" />
-        </a>
         <a href="https://www.linkedin.com/in/gthiago/">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
         </a>
